@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'home/home_page.dart';
 
 void main() {
-  // TODO: initialize a new instance of BLoC
+  // TODO 4: initialize a new instance of BLoC
   runApp(MyApp());
 }
 

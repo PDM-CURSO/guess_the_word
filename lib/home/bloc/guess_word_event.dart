@@ -6,4 +6,4 @@ sealed class GuessWordEvent extends Equatable {
   @override
   List<Object> get props => [];
 }
-// TODO: define necessary events here. Remember events as actions
+// TODO 1: define necessary events here. Remember events as actions

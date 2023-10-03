@@ -8,4 +8,4 @@ sealed class GuessWordState extends Equatable {
 }
 
 final class GuessWordInitial extends GuessWordState {}
-// TODO: define necessary states here. Remember states as results to events
+// TODO 2: define necessary states here. Remember states as results to events
